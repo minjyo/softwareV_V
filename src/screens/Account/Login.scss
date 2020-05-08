@@ -1,0 +1,97 @@
+.login {
+    
+    text-align: center;
+    margin:20px;
+    
+    .in {
+        padding: 20px 120px 50px 120px;
+        display: inline-block;
+
+        .loginText {
+            font-weight:bold;
+            font-size:20px;
+            text-align:left;
+            width:400px;
+        }
+
+        .form {
+
+            .text {
+                width:400px;
+                text-align: left;
+                font-size: 17px;
+                max-width:200px;
+                margin:10px;
+            }
+            .loginInput {
+                width:420px;
+                height:40px;
+                border: 1px solid #c2c0b3;
+                border-radius: 3px;
+                outline:none;
+                margin:10px;
+                padding:10px;
+            }
+            
+            .loginInput:focus {
+                border: 1px solid rgb(236, 150, 64);
+            }
+            
+        }
+        .loginButton {
+            width:420px;
+            height:40px;
+            border:none;
+            border-radius: 4px;
+            background-color: #c2c0b3;
+            outline: none;
+            padding:5px 10px;
+            cursor:pointer;
+        }
+        .loginButton:hover {
+            background-color: rgb(236, 150, 64);
+        }
+        .githubButton {
+            width:440px;
+            padding:5px;
+            margin:20px;
+        }
+        
+    }
+}
+@media screen and (max-width: 992px){
+    
+    .login {
+        text-align: center;
+        margin:10px 0px 0px 0px;
+        width:300px;
+
+        .in {
+            padding: 5px 10px 10px 30px;
+
+            .loginText {
+                font-size:16px;
+                width:250px;
+                margin-top: 1rem;
+            }
+            .form{
+
+                .text {
+                    width:250px;
+                }
+                .loginInput {
+                    width:280px;
+                }
+            }
+
+            .loginButton {
+                width:280px;
+            }
+            .githubButton {
+                width:310px;
+                padding:10px;
+            }
+        }
+    }
+    
+}
