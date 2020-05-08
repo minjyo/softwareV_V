@@ -21,8 +21,9 @@ import { meRequestAction } from "store/actions/User";
 import ReactGA from "react-ga";
 
 const App = () => {
+    //test
     const dispatch = useDispatch();
-    const isAuthenticating = useSelector(state => state.userReducer.meName);
+    const isAuthenticating = useSelector((state) => state.userReducer.meName);
     const [token, setToken] = useState(localStorage.getItem("accessToken"));
 
     ReactGA.initialize("UA-156710590-01");
