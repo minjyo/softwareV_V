@@ -2,7 +2,6 @@ plugins {
     id 'java'
     id "org.sonarqube" version "7.6"
 }
-}
 apply plugin: 'java'
 group 'ctip.vandv'
 version '1.0-SNAPSHOT'
