@@ -16,7 +16,6 @@ class CalculatorTest {
         assertEquals(3, c.subtract(5, 2));
         assertEquals(3, c.subtract(5, 2));
         assertEquals(3, c.subtract(5, 2));
-        assertEquals(3, c.subtract(5, 2));
     }
 
     @Test
