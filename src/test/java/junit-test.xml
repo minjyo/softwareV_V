@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+***** Pass Test Case
+<testsuite>
+<testcase classname="softwareV_V" name="testName"></testcase>
+</testsuite>
+
+***** Fail Test Case
+<testsuite>
+<testcase classname="softwareV_V" name="testName">
+<failure type="test">Error Message</failure>
+</testcase>
+</testsuite>
+
