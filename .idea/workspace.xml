@@ -35,21 +35,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e241d2c-d860-47c8-8187-0c1993824b7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/softwarevv_main_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Controller/Watch.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Controller/Watch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Mode/Buzzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Mode/Buzzer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Mode/Dday.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Mode/Dday.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Mode/StopWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Mode/StopWatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Mode/TimeKeep.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Mode/TimeKeep.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Mode/mTimer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Mode/mTimer$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Mode/mTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Mode/mTimer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Type/dday_data.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Type/dday_data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Type/watch_Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Type/watch_Type.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Mode/Dday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Mode/Dday.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TimeKeepingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TimeKeepingTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="7e241d2c-d860-47c8-8187-0c1993824b7e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,26 +220,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.6.1920.1040@0.0.1536.824" timestamp="1591428418727" />
-    <state width="1493" height="117" key="GridCell.Tab.0.bottom" timestamp="1591495689681">
+    <state width="1493" height="145" key="GridCell.Tab.0.bottom" timestamp="1591541174887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.6.1920.1040@0.0.1536.824" timestamp="1591495689681" />
-    <state width="1493" height="117" key="GridCell.Tab.0.center" timestamp="1591495689681">
+    <state width="1877" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1591538004253" />
+    <state width="1493" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.6.1920.1040@0.0.1536.824" timestamp="1591541174887" />
+    <state width="1493" height="145" key="GridCell.Tab.0.center" timestamp="1591541174887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.0.center/0.0.1536.824/-1920.6.1920.1040@0.0.1536.824" timestamp="1591495689681" />
-    <state width="1493" height="117" key="GridCell.Tab.0.left" timestamp="1591495689681">
+    <state width="1877" height="145" key="GridCell.Tab.0.center/0.0.1536.824/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1591538004253" />
+    <state width="1493" height="145" key="GridCell.Tab.0.center/0.0.1536.824/-1920.6.1920.1040@0.0.1536.824" timestamp="1591541174887" />
+    <state width="1493" height="145" key="GridCell.Tab.0.left" timestamp="1591541174887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.0.left/0.0.1536.824/-1920.6.1920.1040@0.0.1536.824" timestamp="1591495689681" />
-    <state width="1493" height="117" key="GridCell.Tab.0.right" timestamp="1591495689681">
+    <state width="1877" height="145" key="GridCell.Tab.0.left/0.0.1536.824/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1591538004253" />
+    <state width="1493" height="145" key="GridCell.Tab.0.left/0.0.1536.824/-1920.6.1920.1040@0.0.1536.824" timestamp="1591541174887" />
+    <state width="1493" height="145" key="GridCell.Tab.0.right" timestamp="1591541174887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.0.right/0.0.1536.824/-1920.6.1920.1040@0.0.1536.824" timestamp="1591495689681" />
-    <state x="-1536" y="120" key="SettingsEditor" timestamp="1591536675840">
+    <state width="1877" height="145" key="GridCell.Tab.0.right/0.0.1536.824/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1591538004253" />
+    <state width="1493" height="145" key="GridCell.Tab.0.right/0.0.1536.824/-1920.6.1920.1040@0.0.1536.824" timestamp="1591541174887" />
+    <state x="-1536" y="120" key="SettingsEditor" timestamp="1591538036191">
       <screen x="-1920" y="6" width="1920" height="1040" />
     </state>
-    <state x="-1536" y="120" key="SettingsEditor/0.0.1536.824/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1591536675840" />
+    <state x="-1536" y="120" key="SettingsEditor/0.0.1536.824/-1920.6.1920.1040@-1920.6.1920.1040" timestamp="1591538036191" />
     <state x="307" y="90" key="SettingsEditor/0.0.1536.824/-1920.6.1920.1040@0.0.1536.824" timestamp="1591495388156" />
     <state x="-1365" y="6" width="1372" height="1047" key="dock-window-1" timestamp="1591486525055">
       <screen x="-1920" y="6" width="1920" height="1040" />
